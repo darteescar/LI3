@@ -1,6 +1,7 @@
 # LI3 (Português)
-Aplicação de análise dos dados relativos a um sistema de streaming de música implementada no âmbito da cadeira de Laboratórios de Informática I. O projeto foi dividido em duas partes, cujos enunciados podem ser consultados [aqui](enunciado-fase1.pdf) e [aqui](enunciado-fase2.pdf), respetivamente.
-# Nota Final: 17 / 20 ⭐️
+Aplicação de análise dos dados relativos a um sistema de streaming de música implementada no âmbito da cadeira de Laboratórios de Informática I. O projeto foi dividido em duas partes, cujos enunciados podem ser consultados [aqui](enunciado-fase1.pdf) e [aqui](enunciado-fase2.pdf), respetivamente. O [relatório 1](relatorio-fase1.pdf) e o [relatório 2](relatorio-fase2.pdf) podem também ser consultados.
+
+### Nota Final: 17 / 20 ⭐️
 
 ## Membros do grupo
 
@@ -50,9 +51,9 @@ $ make clean
 ```
 
 # LI3 (English)
-Music streaming data analysis application implemented in the scope of the Computer Science Laboratory I course. The project was divided into two parts, whose requirements can be found [here](enunciado-fase1.pdf) and [here](enunciado-fase2.pdf), respectively.
+Music streaming data analysis application implemented in the scope of the Computer Science Laboratory I course. The project was divided into two parts, whose requirements can be found [here](enunciado-fase1.pdf) and [here](enunciado-fase2.pdf), respectively (both in Portuguese). The [report 1](relatorio-fase1.pdf) and the [report 2](relatorio-fase2.pdf) can also be consulted.
 
-# Final Grade: 17 / 20 ⭐️
+### Final Grade: 17 / 20 ⭐️
 
 ## Group members
 
@@ -61,7 +62,7 @@ Music streaming data analysis application implemented in the scope of the Comput
 * [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
 
 ## Executable
-To compile the program in the various modes available, just do:
+To compile the program in the various available modes, just do:
 
 ```console
 $ cd trabalho-pratico
