@@ -1,5 +1,5 @@
 # LI3 (Português)
-Aplicação de análise dos dados relativos a um sistema de streaming de música implementada no âmbito da cadeira de Laboratórios de Informática I. O projeto foi dividido em duas partes, cujos enunciados podem ser consultados [aqui] (enunciado-fase1.pdf) e [aqui] (enunciado-fase2.pdf), respetivamente.
+Aplicação de análise dos dados relativos a um sistema de streaming de música implementada no âmbito da cadeira de Laboratórios de Informática I. O projeto foi dividido em duas partes, cujos enunciados podem ser consultados [aqui](enunciado-fase1.pdf) e [aqui](enunciado-fase2.pdf), respetivamente.
 # Nota Final: 17 / 20 ⭐️
 
 ## Membros do grupo
@@ -50,7 +50,7 @@ $ make clean
 ```
 
 # LI3 (English)
-Music streaming data analysis application implemented in the scope of the Computer Science Laboratory I course. The project was divided into two parts, whose requirements can be found [here] (enunciado-fase1.pdf) and [here] (enunciado-fase2.pdf), respectively.
+Music streaming data analysis application implemented in the scope of the Computer Science Laboratory I course. The project was divided into two parts, whose requirements can be found [here](enunciado-fase1.pdf) and [here](enunciado-fase2.pdf), respectively.
 
 # Final Grade: 17 / 20 ⭐️
 
