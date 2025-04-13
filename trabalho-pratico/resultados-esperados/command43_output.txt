@@ -1,0 +1,10 @@
+Electronic;85284
+Country;84743
+Reggae;84372
+Metal;84349
+Hip Hop;84212
+Classical;83861
+Blues;83498
+Jazz;82839
+Pop;82462
+Rock;81757

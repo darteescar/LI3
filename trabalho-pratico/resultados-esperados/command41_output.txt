@@ -1,0 +1,10 @@
+Electronic;105728
+Hip Hop;105370
+Metal;105071
+Country;104627
+Blues;104220
+Reggae;104148
+Classical;104021
+Jazz;102737
+Pop;102006
+Rock;101026

@@ -1,0 +1,10 @@
+Electronic;67320
+Country;67081
+Metal;66886
+Hip Hop;66688
+Reggae;66587
+Classical;66111
+Blues;65896
+Jazz;65209
+Pop;65015
+Rock;64397

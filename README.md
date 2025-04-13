@@ -9,6 +9,10 @@ Aplicação de análise dos dados relativos a um sistema de streaming de música
 * [luis7788](https://github.com/luis7788)
 * [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
 
+## NOTA:
+
+Devido ao limite imposto pelo GitHub, não foi possível incluir os datasets corretos. Os que se encontram na pasta do projeto, aquando corridos pelo programa-testes, não terão o resultado esperado.
+
 ## Executável
 
 Para compilar o programa nos vários modos disponibilizados basta fazer:
@@ -60,6 +64,10 @@ Music streaming data analysis application implemented in the scope of the Comput
 * [darteescar](https://github.com/darteescar)
 * [luis7788](https://github.com/luis7788)
 * [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
+
+## NOTE:
+
+Due to the limit imposed by GitHub, it was not possible to include the correct datasets. The ones in the project folder, when run by the test program, will not have the expected result.
 
 ## Executable
 To compile the program in the various available modes, just do:

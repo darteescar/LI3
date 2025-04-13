@@ -1,0 +1,10 @@
+Electronic;741513
+Metal;736112
+Country;735149
+Reggae;735065
+Hip Hop;734000
+Classical;731704
+Blues;730747
+Jazz;721414
+Pop;717514
+Rock;712861
