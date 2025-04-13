@@ -1,0 +1,10 @@
+Reggae=1352
+Electronic=1338
+Pop=1332
+Country=1322
+Rock=1321
+Jazz=1276
+Hip Hop=1265
+Blues=1260
+Metal=1237
+Classical=1223

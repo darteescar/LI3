@@ -1,0 +1,10 @@
+Reggae;2800
+Jazz;2736
+Blues;2638
+Rock;2607
+Pop;2596
+Metal;2571
+Country;2509
+Hip Hop;2501
+Electronic;2495
+Classical;2440

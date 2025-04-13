@@ -7,7 +7,9 @@
 /*-------------------------------------Funções da HT de Users-------------------------------------*/
 
 // Inicialização da HT dos utilizadores
-1
+GHashTable *init_HT_U() {
+    return g_hash_table_new_full(g_str_hash, g_str_equal, free_HT_U_key, free_HT_U_value); // cuidado aqui
+}
 
 // Libertar a Memória TODA da HT dos utilizadores
 void free_HT_U(GHashTable *table) {

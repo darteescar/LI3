@@ -1,0 +1,10 @@
+Reggae;3612
+Jazz;3463
+Blues;3459
+Pop;3360
+Rock;3354
+Metal;3278
+Country;3266
+Hip Hop;3243
+Electronic;3213
+Classical;3167
