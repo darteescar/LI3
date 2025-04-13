@@ -51,7 +51,7 @@ $ make clean
 ```
 
 # LI3 (English)
-Music streaming data analysis application implemented in the scope of the Computer Science Laboratory I course. The project was divided into two parts, whose requirements can be found [here](enunciado-fase1.pdf) and [here](enunciado-fase2.pdf), respectively (both in Portuguese). The [report 1](relatorio-fase1.pdf) and the [report 2](relatorio-fase2.pdf) can also be consulted.
+Music streaming data analysis application implemented in the scope of the Computer Science Laboratory I course. The project was divided into two parts, whose requirements can be found [here](enunciado-fase1.pdf) and [here](enunciado-fase2.pdf), respectively (both in Portuguese). The [report 1](relatorio-fase1.pdf) and the [report 2](relatorio-fase2.pdf) can also be consulted (both in Portuguese).
 
 ### Final Grade: 17 / 20 ⭐️
 
