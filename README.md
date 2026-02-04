@@ -1,5 +1,5 @@
 # LI3 (Português)
-Aplicação de análise dos dados relativos a um sistema de streaming de música implementada no âmbito da cadeira de Laboratórios de Informática III. O projeto foi dividido em duas partes, cujos enunciados podem ser consultados [aqui](enunciado-fase1.pdf) e [aqui](enunciado-fase2.pdf), respetivamente. O [relatório 1](relatorio-fase1.pdf) e o [relatório 2](relatorio-fase2.pdf) podem também ser consultados.
+Aplicação de análise dos dados relativos a um sistema de streaming de música implementada no âmbito da cadeira de Laboratórios de Informática III. O projeto foi dividido em duas partes e os enunciados podem ser consultados [aqui](enunciado-fase1.pdf) e [aqui](enunciado-fase2.pdf), respetivamente. O [relatório 1](relatorio-fase1.pdf) e o [relatório 2](relatorio-fase2.pdf) podem também ser consultados.
 
 ### Nota Final: 17 / 20 ⭐️
 
@@ -55,7 +55,7 @@ $ make clean
 ```
 
 # LI3 (English)
-Music streaming data analysis application implemented in the scope of the Computer Science Laboratory III course. The project was divided into two parts, whose requirements can be found [here](enunciado-fase1.pdf) and [here](enunciado-fase2.pdf), respectively (both in Portuguese). The [report 1](relatorio-fase1.pdf) and the [report 2](relatorio-fase2.pdf) can also be consulted (both in Portuguese).
+Application for analyzing data related to a music streaming system implemented within the scope of the Laboratory of Computer Science III course. The project is divided into two parts and the requirements can be consulted [here](enunciado-fase1.pdf) and [here](enunciado-fase2.pdf), respectively (note that both are in Portuguese). The [report 1](relatorio-fase1.pdf) and [report 2](relatorio-fase2.pdf) can also be consulted.
 
 ### Final Mark: 17 / 20 ⭐️
 
